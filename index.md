@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![This is a pdf](https://experimentalcommunity.files.wordpress.com/2013/02/exco_zine_no_2_for_screen_small.pdf)
 
+<object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 ### Topic ideas
 * De-mystifying higher ed 101
 * How to organize a student-led movement
