@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/jkim5/jkim5.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<object data="https://experimentalcommunity.files.wordpress.com/2013/02/exco_zine_no_2_for_screen_small.pdf" width=100% height="500" type='application/pdf'></object>
+<object data="https://experimentalcommunity.files.wordpress.com/2013/02/exco_zine_no_2_for_screen_small.pdf" width="100%" height="500" type='application/pdf'></object>
 
 ### Topic ideas
 * De-mystifying higher ed 101
