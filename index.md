@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/jkim5/jkim5.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Topic ideas
+* De-mystifying higher ed 101
+* How to organize a student-led movement
+* Decolonizing education 
+* Racism and anti-racism efforts in education / Macalester 
+* Campus resources 
+* Envisioning alternatives
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
