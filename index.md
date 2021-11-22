@@ -12,6 +12,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * Campus resources 
 * Envisioning alternatives
 
+### Envisioning alternatives
+* Brainstorm values and themes, and also concrete things people would like to see changed.
+* If students / community members are given a bigger voice, how do we balance issues raised with what admin cites as financial / managerial obstacles? What does that mean for the longevity of the college? I.e. need blind admission
+* How should we synthesize what collective visions are for the college?
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
